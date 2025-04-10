@@ -1,7 +1,7 @@
 ```markdown
 # Project Title
 
-![React-Router](./React-Router/src/assets/ss.png)
+![React-Router](ss.png)
 
 ## Overview
 
